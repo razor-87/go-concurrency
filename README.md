@@ -10,6 +10,7 @@
 	- [runtime](#runtime)
 	- [sync](#sync)
 	- [x/sync](#xsync)
+- [Talks](#talks)
 
 
 ### Official site
@@ -99,5 +100,23 @@
 	- [errgroup.go](https://github.com/golang/sync/blob/master/errgroup/errgroup.go)
 	- [semaphore.go](https://github.com/golang/sync/blob/master/semaphore/semaphore.go)
 	- [singleflight.go](https://github.com/golang/sync/blob/master/singleflight/singleflight.go)
+
+**[⬆ back to top](#contents)**
+
+### Talks
+- [Rob Pike - Origins of Go Concurrency Style (2010)](https://www.youtube.com/watch?v=-_DKfAn4pFA)
+- [Rob Pike - Concurrency Is Not Parallelism (2012)](https://www.youtube.com/watch?v=qmg1CF3gZQ0)
+- [Rob Pike - Go Concurrency Patterns (2012)](https://www.youtube.com/watch?v=f6kdp27TYZs)
+- [Sameer Ajmani - Advanced Go Concurrency Patterns (2013)](https://www.youtube.com/watch?v=QDDwwePbDtw)
+- [Rob Pike - From Parallel to Concurrent (2014)](https://www.youtube.com/watch?v=iTrP_EmGNmw)
+- [Eric Shull - Communicating Sequential Processes (2015)](https://www.youtube.com/watch?v=3gXWA6WEvOM)
+- [Arne Claus - Concurrency Patterns in Go (2017)](https://www.youtube.com/watch?v=rDRa23k70CU)
+- [Kavya Joshi - Understanding Channels (2017)](https://www.youtube.com/watch?v=KBZlN0izeiY)
+- [Bryan C. Mills - Rethinking Classical Concurrency Patterns (2018)](https://www.youtube.com/watch?v=5zXAHh5tJqQ)
+- [Kavya Joshi - The Scheduler Saga (2018)](https://www.youtube.com/watch?v=YHRO5WQGh0k)
+- [Dmitry Vyukov - Go scheduler (2019)](https://www.youtube.com/watch?v=-K11rY57K7k)
+- [Austin Clements - Pardon the Interruption (2020)](https://www.youtube.com/watch?v=1I1WmeSjRSw)
+- [Vicki Niu - Goroutines: Under the Hood (2020)](https://www.youtube.com/watch?v=S-MaTH8WpOM)
+- [Matt Holiday - CSP, Goroutines, and Channels (2021)](https://www.youtube.com/watch?v=zJd7Dvg3XCk)
 
 **[⬆ back to top](#contents)**
